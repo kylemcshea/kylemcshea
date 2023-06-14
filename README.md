@@ -5,7 +5,7 @@ I am a Full Stack Developer currently working for Intuit MailChimp, making web d
 
 Regardless of the day, no matter how busy I am, I make it a point to code at least one line every day – to keep the momentum and to keep improving my skills.
 
-As for inspirations in this vast field, I am a huge fan of the works of [Theo Browne](https://github.com/t3dotgg), [Tanner Linsley](https://github.com/tannerlinsley), and [The Primeagen](https://github.com/primeagen).
+As for inspirations in this vast field, I am a huge fan of the works of [Theo Browne](https://github.com/t3dotgg), [Tanner Linsley](https://github.com/tannerlinsley), and [The Primeagen](https://github.com/ThePrimeagen).
 
 ## Get in Touch 📩
 If you want to talk about collaborations, projects or just want to say hi, feel free to reach out to me on my social platforms:
