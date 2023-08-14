@@ -11,5 +11,5 @@ As for inspirations in this vast field, I am a huge fan of the works of [Theo Br
 If you want to talk about collaborations, projects or just want to say hi, feel free to reach out to me on my social platforms:
 
 - Twitter: [@KyleMcShea](https://twitter.com/KyleMcShea)
-- Discord: ayeeyerrnotmydad#9545
+- Discord: sir_kale
 - Email: [hi@kylemcshea.com](mailto:hi@kylemcshea.com)
